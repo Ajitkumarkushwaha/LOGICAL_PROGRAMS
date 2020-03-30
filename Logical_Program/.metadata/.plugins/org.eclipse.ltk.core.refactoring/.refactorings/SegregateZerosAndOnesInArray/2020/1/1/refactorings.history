@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;SegregateZerosOneAndTowsInArray/src/com.app&apos;&#x0D;&#x0A;- Original project: &apos;SegregateZerosAndOnesInArray&apos;&#x0D;&#x0A;- Destination element: &apos;SegregateZerosOneAndTowsInArray/src/com.app&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.app.SegregateZerosAndOnesInArray.java&#x0D;&#x0A;     com.app.SegregateZerosOneAndTowsInArray.java" description="Copy compilation units" destination="=SegregateZerosOneAndTowsInArray/src&lt;com.app" element1="/src&lt;com.app{SegregateZerosAndOnesInArray.java" element2="/src&lt;com.app{SegregateZerosOneAndTowsInArray.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1578073552164" units="2" version="1.0"/>
+</session>

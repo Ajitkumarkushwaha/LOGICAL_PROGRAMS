@@ -1,0 +1,12 @@
+package com.app;
+
+public class BoxTable {
+	
+	public static void main(String[] args) {
+		int noOfTable = 9;
+		int box=0;
+		
+	int box=	(noOfTable>0 && noOfTable<4)?noOfTable/4:noOfTable+1/4;
+	}
+
+}
